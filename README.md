@@ -5,8 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/destiny-ed)  
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://www.youtube.com/@Destiny_Ed)  
 [![X](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://x.com/DestinyEd8)  
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat-square&logo=github)]((https://github.com/Destiny-Ed))  
-[![Website](https://img.shields.io/badge/Website-Explore-lightgrey?style=flat-square&logo=google-chrome)]([https://yourportfolio.com](https://play.google.com/store/apps/dev?id=5152314488331482508))  
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat-square&logo=github)](https://github.com/Destiny-Ed)  
+[![Website](https://img.shields.io/badge/Website-Explore-lightgrey?style=flat-square&logo=google-chrome)](https://play.google.com/store/apps/dev?id=5152314488331482508)  
 
 ---
 
