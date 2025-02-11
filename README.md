@@ -33,39 +33,32 @@ I create content on **YouTube** to help developers learn Flutter, and I build **
 
 ### 🏠 [**Blocka (Parental Guidance Application)**](https://play.google.com/store/apps/details?id=app.blockr)  
 > A **parental guidance application** that helps block access to certain websites and applications. It features a beautiful design and security.  
-**Tech Stack:** Flutter, Firebase, Stripe  
+**Tech Stack:** Flutter, Firebase, In-app purchase, Kotlin (Platform channel)  
 
-![Homie App](https://yourimageurl.com/homie-demo.gif)  
 
 ### 📄 [**ReceiptMate (AI-Powered Expense & Receipt Management)**](https://yourapp.com)  
 > Automates **expense tracking, bank SMS parsing, and receipt scanning** for individuals & businesses.  
 **Tech Stack:** Flutter, AI OCR, QuickBooks API  
 
-![ReceiptMate](https://yourimageurl.com/receiptmate-demo.gif)  
-
-### 🛍️ [**Sharra (Reseller Marketplace)**](https://yourapp.com)  
+### 🛍️ [**Sharra (Reseller Marketplace)**](https://play.google.com/store/apps/details?id=store.shara.app)  
 > Enables **resellers to earn** by sharing products and earning profits upon sales.  
-**Tech Stack:** Flutter, Firebase, Revenue Splitting API  
+**Tech Stack:** Flutter, Firebase, Revenue Splitting API, Payment Integration 
 
-### 📸 [**Screenshot Pro**](https://yourapp.com)  
+### 📸 [**Screenshot Pro**](https://play.google.com/store/apps/details?id=ap.screenshot.pro)  
 > Generates **professional-grade app screenshots** for the App Store & Play Store.  
-**Tech Stack:** Flutter, Cloud Storage  
+**Tech Stack:** Flutter, Cloud Storage, In-app subscription
 
-### 🎤 [**Treasure Tales (YouTube Channel for Haunting & True Crime Stories)**](https://www.youtube.com/@treasure_tales)  
-> **Narrating mysteries, haunting stories, and true crime** for an engaged audience.  
-
-### 📱 [**TagMate (Smart Location Tracking App)**](https://yourapp.com)  
-> **Never lose your stuff again!** Helps users save & track item locations (cars, shopping carts, etc.).  
-**Tech Stack:** Flutter, GPS APIs  
+### 📱 [**Tell (Text to Audio App)**](https://yourapp.com)  
+> ** Transform text into lifelike speech with ease, extract text from images and documents in seconds.
 
 ---
 
 ## 🏆 Notable Achievements  
 
 🎤 **Speaker at Flutter Conferences**  
-📺 **5K+ YouTube subscribers**  
+📺 **Over 2K+ YouTube subscribers**  
 💰 **100K+ app downloads across multiple projects**  
-🚀 **Built & launched 5+ SaaS products**  
+🚀 **Built & launched over 5+ SaaS products**  
 
 ---
 
@@ -77,16 +70,11 @@ I create content on **YouTube** to help developers learn Flutter, and I build **
 
 ### 🌍 **Backend & Databases:**  
 - Firebase, Supabase, Node.js  
-- Firestore, PostgreSQL, MySQL  
+- Firestore, MySQL & SQlite  
 
 ### 🤖 **AI & Automation:**  
-- OpenAI API, OCR, NLP  
+- OpenAI API, OCR, NLP, Google Cloud AI APIs  
 - Web scraping & automation  
-
-### 💸 **Fintech & Trading:**  
-- Forex Trading (XAUUSD)  
-- Smart Money Concepts (Order Blocks)  
-- Trading Automation  
 
 ### 🎨 **Design & UI/UX:**  
 - Figma, Adobe XD  
@@ -95,20 +83,19 @@ I create content on **YouTube** to help developers learn Flutter, and I build **
 
 ## 🎤 Testimonials  
 
-> _"Destiny’s Flutter tutorials helped me land my first job!"_ – **John Doe, Flutter Developer**  
-> _"ReceiptMate simplified my business accounting!"_ – **Jane Smith, Startup Founder**  
-> _"TagMate is a lifesaver! Now I never lose track of my parked car!"_ – **Michael Lee, Beta User**  
+> _"Destiny’s Flutter tutorials helped me land my first job!"_ – **Favour Dike, Flutter Developer**  
+> _"Tell simplified my voice over profession!"_ – **Nsikak, App User**  
+> _"Screenshot Pro helped me to generate Appstore and Playstore graphics faster for my apps!"_ – **Michael Okoro, Beta User**  
 
 ---
 
 ## 🎥 YouTube & Content Creation  
 
-🎥 **[YouTube Channel: Code with Destiny Ed](https://www.youtube.com/@destiny_dikeocha)**  
-- Weekly **Flutter tutorials & SaaS app breakdowns**  
+🎥 **[YouTube Channel](https://www.youtube.com/@Destiny_Ed)**  
 - **Beginner-friendly content** to help devs grow  
 
-🎥 **[Treasure Tales](https://www.youtube.com/@treasure_tales)**  
-- **Storytelling, mysteries & true crime videos**  
+🎥 **[Code with Destiny Ed](https://t.me/code_with_destiny_ed)**  
+- Weekly **Flutter tutorials & SaaS app breakdowns**  
 
 ---
 
@@ -128,16 +115,13 @@ I’m open to **collaborations, partnerships, and consulting opportunities** in:
 ✅ **Flutter app development & automation**  
 ✅ **AI-powered business solutions**  
 
-📩 **Email:** your@email.com  
-🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
-💼 **LinkedIn:** [Destiny Dikeocha](https://www.linkedin.com/in/destiny-dikeocha)  
+📩 **Email:** talk2destinyed@gmail.com  
+💼 **LinkedIn:** [Destiny Dikeocha](https://www.linkedin.com/in/destiny-ed)  
 
 ---
 
 ## 📬 Stay Updated  
 
-🔹 **Join my newsletter** for weekly insights on **Flutter, AI, and SaaS growth** → [Subscribe Here](#)  
+🔹 **Join my telegram channel** for weekly insights on **Flutter for begineers** → [Join Here](https://t.me/code_with_destiny_ed)  
 
 ---
-
-Would you like me to add **GitHub stats, more visuals, or anything else?** 🚀  
