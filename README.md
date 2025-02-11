@@ -1,22 +1,22 @@
 # 🚀 Destiny Dikeocha  
 
-**Indie Developer | Flutter Expert | SaaS Builder | AI & Automation Enthusiast**  
+**Indie Developer | Flutter Developer | SaaS Builder **  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/destiny-dikeocha)  
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://www.youtube.com/@destiny_dikeocha)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/destiny_dikeocha)  
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat-square&logo=github)](https://github.com/destiny-dikeocha)  
-[![Website](https://img.shields.io/badge/Website-Explore-lightgrey?style=flat-square&logo=google-chrome)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/destiny-ed)  
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://www.youtube.com/@Destiny_Ed)  
+[![X](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://x.com/DestinyEd8)  
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-black?style=flat-square&logo=github)]([https://github.com/destiny-dikeocha](https://github.com/Destiny-Ed))  
+[![Website](https://img.shields.io/badge/Website-Explore-lightgrey?style=flat-square&logo=google-chrome)]([https://yourportfolio.com](https://play.google.com/store/apps/dev?id=5152314488331482508))  
 
 ---
 
 ## 🌟 About Me  
 
-I'm an indie developer and SaaS entrepreneur passionate about **Flutter development, AI-powered solutions, automation, and fintech applications.** I specialize in building high-performance **mobile apps, SaaS platforms, and developer tools.**  
+I'm a Software Developer and Indie developer passionate about **Flutter development, AI-powered solutions, and fintech applications.** I specialize in building high-performance **mobile apps, SaaS platforms, and developer tools.**  
 
 I create content on **YouTube** to help developers learn Flutter, and I build **profitable projects** that solve real-world problems.  
 
-🚀 Currently, I'm working on innovative solutions in **finance, e-commerce, and AI-powered productivity tools.**  
+🚀 Currently, I'm working on innovative solutions in **e-commerce, and AI and AR-powered productivity tools.**  
 
 ---
 
@@ -31,8 +31,8 @@ I create content on **YouTube** to help developers learn Flutter, and I build **
 
 ## 🔥 Featured Projects  
 
-### 🏠 [**Homie (Property Management App)**](https://yourapp.com)  
-> A **smart property management app** for **tenants, landlords, and property managers**, helping them manage rent, communication, and ownership transfers.  
+### 🏠 [**Blocka (Parental Guidance Application)**](https://play.google.com/store/apps/details?id=app.blockr)  
+> A **parental guidance application** that helps block access to certain websites and applications. It features a beautiful design and security.  
 **Tech Stack:** Flutter, Firebase, Stripe  
 
 ![Homie App](https://yourimageurl.com/homie-demo.gif)  
