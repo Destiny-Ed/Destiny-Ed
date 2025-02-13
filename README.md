@@ -36,7 +36,7 @@ I create content on **YouTube** to help developers learn Flutter, and I build **
 **Tech Stack:** Flutter, Firebase, In-app purchase, Kotlin (Platform channel)  
 
 
-### 📄 [**ReceiptMate (AI-Powered Expense & Receipt Management)**](https://yourapp.com)  
+### 📄 [**ReceiptMate (AI-Powered Expense & Receipt Management)**]()  
 > Automates **expense tracking, bank SMS parsing, and receipt scanning** for individuals & businesses.  
 **Tech Stack:** Flutter, AI OCR, QuickBooks API  
 
@@ -48,7 +48,7 @@ I create content on **YouTube** to help developers learn Flutter, and I build **
 > Generates **professional-grade app screenshots** for the App Store & Play Store.  
 **Tech Stack:** Flutter, Cloud Storage, In-app subscription
 
-### 📱 [**Tell (Text to Audio App)**](https://yourapp.com)  
+### 📱 [**Tell (Text to Audio App)**](https://play.google.com/store/apps/details?id=app.tell)  
 > ** Transform text into lifelike speech with ease, extract text from images and documents in seconds.
 
 ---
