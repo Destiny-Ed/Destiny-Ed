@@ -33,8 +33,12 @@ I create content on **YouTube** to help developers learn Flutter, and I build **
 
 ### 🏠 [**Blocka (Parental Guidance Application)**](https://play.google.com/store/apps/details?id=app.blockr)  
 > A **parental guidance application** that helps block access to certain websites and applications. It features a beautiful design and security.  
-**Tech Stack:** Flutter, Firebase, In-app purchase, Kotlin (Platform channel)  
+**Tech Stack:** Flutter, Firebase, In-app purchase, Kotlin (Platform channel)
 
+### 📄 [**NotteChat (NotteChat is built to make your documents talk back, powered by AI)**](https://nottechat.com)  
+> Turn PDFs into conversations with AI—ask, explore, understand.
+> Chat with Any Document, Instantly   
+**Tech Stack:** Flutter, AI Gemini, Firebase, SQLite 
 
 ### 📄 [**ReceiptMate (AI-Powered Expense & Receipt Management)**]()  
 > Automates **expense tracking, bank SMS parsing, and receipt scanning** for individuals & businesses.  
@@ -49,7 +53,7 @@ I create content on **YouTube** to help developers learn Flutter, and I build **
 **Tech Stack:** Flutter, Cloud Storage, In-app subscription
 
 ### 📱 [**Tell (Text to Audio App)**](https://play.google.com/store/apps/details?id=app.tell)  
-> ** Transform text into lifelike speech with ease, extract text from images and documents in seconds.
+> ** Transform text into lifelike speech easily, extract text from images and documents in seconds.
 
 ---
 
@@ -70,7 +74,7 @@ I create content on **YouTube** to help developers learn Flutter, and I build **
 
 ### 🌍 **Backend & Databases:**  
 - Firebase, Supabase, Node.js  
-- Firestore, MySQL & SQlite  
+- Firestore, MySQL & SQLite  
 
 ### 🤖 **AI & Automation:**  
 - OpenAI API, OCR, NLP, Google Cloud AI APIs  
