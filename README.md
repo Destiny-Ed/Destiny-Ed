@@ -7,7 +7,7 @@ Ex-American Exchange Group • Moni (YC W22) • 2K+ YouTube subscribers
 
 Currently freelancing and shipping profitable indie apps (Blocka, NotteChat, Screenshot Pro, etc.)
 
-**Tech:** Flutter (expert) • Provider • Riverpod • Firebase • Supabase • RevenueCat • REST, GraphQl • Stripe/Paystack • gRPC • Shaders • Performance, and more...
+**Tech:** Flutter (expert) • Provider • Riverpod • Firebase • Supabase • Dart Frog • RevenueCat • REST, GraphQl • Stripe/Paystack • gRPC • Shaders • Performance, and more...
 
 [Portfolio → ](https://destinyed.netlify.app)
 
