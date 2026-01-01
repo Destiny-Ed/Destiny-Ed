@@ -2,7 +2,7 @@
 
 **Senior Flutter Engineer • Indie Maker • 100K+ App Downloads**
 
-4+ years building fast, polished, production Flutter apps for fintech, health-tech & AI startups  
+5+ years building fast, polished, production Flutter apps for fintech, health-tech & AI startups  
 Ex-American Exchange Group • Moni (YC W22) • 2K+ YouTube subscribers
 
 Currently freelancing and shipping profitable indie apps (Blocka, NotteChat, Screenshot Pro, etc.)
